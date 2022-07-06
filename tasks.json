@@ -1,0 +1,42 @@
+[
+    {
+        "id": "001",
+        "title": "Hello SKE20",
+        "link": "https://elabsheet.org/elab/taskpads/show/m6smlq599c/",
+        "difficulty": 1,
+        "topics": [
+            "Day 1", "Imperative Programming"
+        ],
+        "timeOpen": 1657688400
+    },
+    {
+        "id": "002",
+        "title": "ChicKen",
+        "link": "https://elabsheet.org/elab/taskpads/show/ddthwzw5n1/",
+        "difficulty": 1,
+        "topics": [
+            "Day 2", "Conditional", "Arithmetic"
+        ],
+        "timeOpen": 1657774800
+    },
+    {
+        "id": "003",
+        "title": "Kurumon Market",
+        "link": "https://elabsheet.org/elab/taskpads/show/dbt0hisszf/",
+        "difficulty": 3,
+        "topics": [
+            "Day 3", "Dictionary", "Loops", "Arithmetic", "String"
+        ],
+        "timeOpen": 1657861200
+    },
+    {
+        "id": "999",
+        "title": "Final Journey",
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "difficulty": 5,
+        "topics": [
+            "Final Challenge"
+        ],
+        "timeOpen": 1657861200
+    }
+]
