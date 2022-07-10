@@ -5,10 +5,14 @@
     "Imperative Programming",
     "Arithmetic",
     "String",
-    "Operators",
+    "Math Module",
     "Conditional",
     "Loops",
-    "Lists",
-    "Dictionary",
+    "Collection",
+    "Indexing and Slicing",
+    "List Comprehension",
+    "Function",
+    "Optional",
+    "Challenge",
     "Final Challenge"
 ]
